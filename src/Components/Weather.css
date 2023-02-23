@@ -1,0 +1,42 @@
+* {
+    background-color: rgb(135, 202, 235);
+    text-align: center;
+}
+
+.div1 {
+    margin-top: 10%;
+}
+
+.h1 {
+    color: crimson;
+    padding-bottom: 10px;
+    font-family: forte;
+}
+
+input {
+    border: 4px solid white;
+    border-radius: 10px;
+}
+
+div {
+    margin-top: 50px;
+}
+
+button {
+    border: 4px solid white;
+    color: white;
+    font-family: chiller;
+}
+
+[type="submit"] {
+    margin-left: 5px;
+    border-radius: 20px;
+}
+
+h1,
+p {
+    color: crimson;
+    font-family: Algerian;
+    /*chiller*/
+    /* font-size: x-large; */
+}
